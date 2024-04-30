@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/kafka/static/css/main.6900c60c.css",
-    "main.js": "/kafka/static/js/main.ad5e42e9.js",
+    "main.css": "/kafka/static/css/main.976e9f25.css",
+    "main.js": "/kafka/static/js/main.73891fe9.js",
     "static/js/453.9f1fd9bf.chunk.js": "/kafka/static/js/453.9f1fd9bf.chunk.js",
-    "static/media/logo.svg": "/kafka/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/coffee-bg.jpg": "/kafka/static/media/coffee-bg.7e46ce9567970ef7b59f.jpg",
     "index.html": "/kafka/index.html",
-    "main.6900c60c.css.map": "/kafka/static/css/main.6900c60c.css.map",
-    "main.ad5e42e9.js.map": "/kafka/static/js/main.ad5e42e9.js.map",
+    "main.976e9f25.css.map": "/kafka/static/css/main.976e9f25.css.map",
+    "main.73891fe9.js.map": "/kafka/static/js/main.73891fe9.js.map",
     "453.9f1fd9bf.chunk.js.map": "/kafka/static/js/453.9f1fd9bf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6900c60c.css",
-    "static/js/main.ad5e42e9.js"
+    "static/css/main.976e9f25.css",
+    "static/js/main.73891fe9.js"
   ]
 }
